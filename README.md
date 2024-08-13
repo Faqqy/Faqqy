@@ -8,7 +8,7 @@ I'm a frontend developer...
 
 
 ## 🛠 Skills
-React, Typescript, Javascript, Docker, HTML, CSS, PHP
+React, Typescript, Javascript, Docker, GIT, HTML, CSS, PHP
 
 
 
